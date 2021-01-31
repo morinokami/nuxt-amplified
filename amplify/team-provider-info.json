@@ -10,6 +10,11 @@
       "StackName": "amplify-nuxtamplified-dev-132210",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:600216464865:stack/amplify-nuxtamplified-dev-132210/e4815320-637b-11eb-bf31-06255f79192a",
       "AmplifyAppId": "dajlrawqs6mdu"
+    },
+    "categories": {
+      "auth": {
+        "nuxtamplifiedc80743ed": {}
+      }
     }
   }
 }

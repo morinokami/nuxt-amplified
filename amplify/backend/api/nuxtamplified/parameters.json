@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "nuxtamplified",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authnuxtamplifiedc80743ed",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
