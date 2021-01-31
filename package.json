@@ -11,6 +11,8 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
+    "@aws-amplify/ui-vue": "^0.2.34",
+    "aws-amplify": "^3.3.15",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12"
   },
